@@ -1,4 +1,4 @@
-# # Rick and Morty - Aplicativo em SwiftUI
+# Rick and Morty - Aplicativo em SwiftUI
 
 
 
