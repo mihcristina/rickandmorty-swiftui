@@ -18,6 +18,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x] Layout da Home
 - [x] Chamada de API
+- [ ] Arquitetura
 - [ ] Tela de detalhes dos Personagens
 - [ ] Tela de detalhes dos Episódios
 - [ ] Tela de detalhes dos Planetas
